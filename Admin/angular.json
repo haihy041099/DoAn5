@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AdminEshop"
+    }
+  },
+  "defaultProject": "AdminEshop",
+  "cli": {
+    "analytics": "802b73b0-815d-4d67-8f90-44c73aaed8b8"
+  }
 }
